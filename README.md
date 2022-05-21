@@ -5,7 +5,7 @@ This is a simple implementation of damped springs for Unity.  It includes a C# p
 
 This is also inspired by this video from Toyful Games https://www.youtube.com/watch?v=bFOAipGJGA0
 
-# Key Setup
+# SpringRunner Setup
 
 For each individual spring you'll need a SpringRunner.  SpringRunner has the spring setup values and will update any subscribers to its OnSpringValueChanged with the new spring position every frame.
 
