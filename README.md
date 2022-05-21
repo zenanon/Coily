@@ -3,6 +3,8 @@ Spring Library for Unity
 
 This is a simple implementation of damped springs for Unity.  It includes a C# port of Ryan Juckett's springs implementation (found here: https://www.ryanjuckett.com/damped-springs/), and a basic setup for running that in a MonoBehaviour.
 
+This is also inspired by this video from Toyful Games https://www.youtube.com/watch?v=bFOAipGJGA0
+
 # Key Setup
 
 For each individual spring you'll need a SpringRunner.  SpringRunner has the spring setup values and will update any subscribers to its OnSpringValueChanged with the new spring position every frame.
