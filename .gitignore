@@ -6,6 +6,9 @@
 [Uu]serSettings/
 Assets/AssetStoreTools*
 
+# TextMeshPro
+Assets/TextMesh Pro*
+
 # Visual Studio cache directory
 .vs/
 
